@@ -14,7 +14,6 @@ It's currently only tranlated in portuguese (sorry :D), feel free to improve upo
 <li>Shop can select it's profit ranging from 0% to 100% (remove items from cart by pressing "space bar" while selecting an item</li>
 <li>If you leave the blip without paying the car resets</li>
 <li>RGB Colors</li>
-<li>Configurable for multiple shops</li>
 <br>
 <b>screenshot</b><br>
 https://imgur.com/a/MFndWZ9
