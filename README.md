@@ -2,7 +2,7 @@
 RageUI LSCustoms
 
 Redone LSCustoms with a few things to match the needs on my server, I currently don't have the time to maintain this resource, that's why I'm releasing this to the public
-It's currently only tranlated in portuguese (sorry :D), feel free to improve upon my work
+It's currently only tranlated in portuguese (sorry :D), feel free to improve upon my work. <b>I only ask that if you fork this resource write the changes in the README.md file</b>
 
 <b>IMPORTANT</b><br>
 <b>You will need to change the default ESX GetVehicleProperties and SetVehicleProperties client/functions.lua file to get this to work, I left a file with my changes to the client/functions.lua from es_extended</b>
